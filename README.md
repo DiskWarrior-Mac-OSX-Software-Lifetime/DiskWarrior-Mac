@@ -9,7 +9,7 @@
 
 <img src="https://www.softwarebox.de/media/image/ea/b5/fe/alsoft-diskwarrior_600x600.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/diskwarrior">
+<a href="https://mac-apps-install.github.io/.github/diskwarrior">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 
