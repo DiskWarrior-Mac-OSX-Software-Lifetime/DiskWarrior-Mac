@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://img.favpng.com/2/14/23/hard-drives-macos-data-recovery-png-favpng-RpgAFaaD6ys1cKRTSKjqihc4T.jpg" width="200"><br>
+<img src="https://www.softwarebox.de/media/image/ea/b5/fe/alsoft-diskwarrior_600x600.png" width="200"><br>
 
 <a href="https://software-apps-osx.github.io/.github/diskwarrior">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
